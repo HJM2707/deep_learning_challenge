@@ -10,3 +10,4 @@
 
 #### The First target model performance was recorded to score 72% with 0.553 loss of the data using the default training and test split size.
 
+short/initi_model_accuracy_stats.png
