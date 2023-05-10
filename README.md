@@ -10,6 +10,8 @@
 #### All the other columns except dropped 'IS SUCCESSFUL' (performed as our target), 'EIN and 'Name'(which has large number of uniqueness needed to be dropped otherwise can disturb the performance of neural network) has performed as features in the analysis for prediction
 ## Results:
 ### 1st compile training reference (Starter_code.ipynb)
+![compile_training](https://github.com/HJM2707/deep_learning_challenge/assets/118155597/52d84e09-33a0-4830-8ad2-25c54682f699)
+
 ####
 #### The First target model performance was recorded to score 72% with 0.553 loss of the data using the default training and test split size.
 
