@@ -23,7 +23,14 @@ short/initi_model_accuracy_stats.png
 #### Which achieved 70% accuracy
 ![optimized_models_accuracy](https://github.com/HJM2707/deep_learning_challenge/assets/118155597/51660bb4-6c65-4a59-a41c-bb3fee8095d9)
 
-### I added third optimized training using 'Names' embedded in the analysis and the accuracy results went over 80%
+### I added third optimized training using 'Names' embedded in the analysis and the accuracy results went over 79% and 0.45 loss of the data
 
 ![final_accuracy_stats](https://github.com/HJM2707/deep_learning_challenge/assets/118155597/04c5fbe2-e804-4df7-89c3-ae30726aacea)
+
+# final concepts
+
+## What I understand is in deep learning there is no easy dropping of the features.
+## Each feature has significance
+## I got bit lost in adding back the name column why is it increasing the accuracy of predicting ability of the model
+## Although I'm finished with the challenge but still lost in deep learning. 
 
