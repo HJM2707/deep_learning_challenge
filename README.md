@@ -12,10 +12,13 @@
 ### 1st compile training reference (Starter_code.ipynb)
 ![compile_training](https://github.com/HJM2707/deep_learning_challenge/assets/118155597/52d84e09-33a0-4830-8ad2-25c54682f699)
 
-####
+### Were you able to achieve the target model performance?
 #### The First target model performance was recorded to score 72% with 0.553 loss of the data using the default training and test split size.
 
 short/initi_model_accuracy_stats.png
 ![initi_model_accuracy_stats](https://github.com/HJM2707/deep_learning_challenge/assets/118155597/7bbb0996-6377-4903-8f86-c84077364eef)
 
-#### Second attempt of optimization 
+### Second attempt of optimization 
+![optimized_compile_training](https://github.com/HJM2707/deep_learning_challenge/assets/118155597/3a47c069-d985-43e0-91b5-82c5564e923d)
+#### Which achieved 70% accuracy
+![optimized_models_accuracy](https://github.com/HJM2707/deep_learning_challenge/assets/118155597/51660bb4-6c65-4a59-a41c-bb3fee8095d9)
