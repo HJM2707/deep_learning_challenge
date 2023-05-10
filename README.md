@@ -22,3 +22,8 @@ short/initi_model_accuracy_stats.png
 ![optimized_compile_training](https://github.com/HJM2707/deep_learning_challenge/assets/118155597/3a47c069-d985-43e0-91b5-82c5564e923d)
 #### Which achieved 70% accuracy
 ![optimized_models_accuracy](https://github.com/HJM2707/deep_learning_challenge/assets/118155597/51660bb4-6c65-4a59-a41c-bb3fee8095d9)
+
+### I added third optimized training using 'Names' embedded in the analysis and the accuracy results went over 80%
+
+![final_accuracy_stats](https://github.com/HJM2707/deep_learning_challenge/assets/118155597/04c5fbe2-e804-4df7-89c3-ae30726aacea)
+
